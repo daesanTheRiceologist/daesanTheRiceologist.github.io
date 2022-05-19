@@ -1,0 +1,104 @@
+.img1 {
+    margin-top: 40px;
+    width: 70vw;
+    border-radius: 12px;
+}
+
+.cont1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.text1 {
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    font-size:large;
+    font-family: Helvetica;
+    font-weight:600;
+    text-align: left;
+    width: 70vw;
+}
+
+.yesbutton {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size:x-large;
+    margin-top: 5vh;
+    background-color: #FFEA00; /* Green */
+    border: none;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 12px;
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-right: 10px;
+  }
+
+.nobutton {
+    margin-left: 10px;
+    font-family: Helvetica;
+    margin-top: 5vh;
+    background-color: #C06817; /* Green */
+    border: none;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 12px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.yesbutton1 {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size:x-large;
+    margin-top: 2vh;
+    background-color: #8cc540; /* Green */
+    border: none;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 12px;
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-right: 10px;
+  }
+
+.nobutton1 {
+    margin-left: 10px;
+    font-family: Helvetica;
+    margin-top: 2vh;
+    background-color: #a27d51; /* Green */
+    border: none;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 12px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.contquiz {
+    padding-top: 3vh;
+    background-color: #FF9F0E;
+    width: 100vw;
+    height: 10vh;
+    color: white;
+    font-family: Helvetica;
+    font-size: xx-large;
+    text-align: center;
+}
